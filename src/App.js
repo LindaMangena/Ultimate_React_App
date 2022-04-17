@@ -18,6 +18,8 @@ const App = () => {
         searchMovies('Spiderman');
         
 
+        
+
     }, []);
 
     return (
